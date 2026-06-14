@@ -34,7 +34,7 @@ export default function BuscaCnpj() {
           <h3>Resultado da Consulta</h3>
 
           <p>
-            <strong>Nome Fantasia:</strong> {dados.nome_fantasia}
+            <strong>Nome Fantasia:</strong> {dados.razao_social}
           </p>
 
           <p>
