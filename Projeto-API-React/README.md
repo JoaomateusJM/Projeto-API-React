@@ -100,8 +100,6 @@ Projeto-API-React/
 │   ├── components/  # Componentes reutilizáveis da interface
 │   ├── services/    # Configuração de chamadas de API (ex: api.js com Axios)
 │   ├── views/pages/ # Páginas ou telas principais da aplicação
-│   ├── App.js       # Componente raiz da aplicação
-│   └── index.js     # Ponto de entrada do JavaScript
 ├── package.json     # Gerenciamento de dependências e scripts do projeto
 └── README.md        # Documentação do projeto
 ```
