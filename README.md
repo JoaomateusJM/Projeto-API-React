@@ -1,4 +1,4 @@
-# 🚀 Projeto API React
+# Projeto API React
 
 Este é um projeto educacional desenvolvido como parte do currículo acadêmico da faculdade. A aplicação consiste em um front-end moderno desenvolvido em **React**, cujo principal objetivo é consumir uma API externa (ou local), gerenciar o estado da aplicação dinamicamente e apresentar os dados de forma interativa e responsiva para o usuário.
 
